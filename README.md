@@ -1,6 +1,6 @@
 # Arul Muruga A D
 
-**Engineering Director(In Progression) | AI Transformation Leader | Technical Project Manager & Group Technical Architect**  
+** AI Transformation Leader | Technical Project Manager & Group Technical Architect**  
 HCL Technologies · Cisco Offshore Development Centre · Chennai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aruldswamy-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aruldswamy)
